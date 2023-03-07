@@ -1,3 +1,8 @@
+# Information
+
+- Following this tutorial: `https://www.kermin.de/blog/react-tutorial-einfaches-hello-world-code-beispiel/`.
+- created the project via `npx create-react-app hello-world`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
